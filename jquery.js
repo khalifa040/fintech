@@ -22,7 +22,7 @@ $('.tlog1').click(function() {
  });
 
 $('.tlog2, .rbtn').click(function() {
-     window.location.assign('signup.html');
+     window.location.assign('http://hausa.000.pe/signup.html');
  });
 
 $('.abbtn').click(function() {
@@ -30,11 +30,11 @@ $('.abbtn').click(function() {
  });
 
 $('.transferbtn').click(function() {
-     window.location.assign('transfer.php');
+     window.location.assign('http://hausa.000.pe/transfer.php');
  });
 
 $('.convertbtn').click(function() {
-     window.location.assign('convert.php');
+     window.location.assign('http://hausa.000.pe/convert.php');
  });
 
 $('.westernbtn').click(function() {
