@@ -14,11 +14,7 @@ $.get(footer, function(data, status){
   });
 
 $('.tlog1').click(function() {
-     if(confirm("are you student? Click OK!")){
-        window.location.assign('dalib/login.html');
-     }else{
-     window.location.assign('mudir/login.html');
-     }
+     window.location.assign('http://hausa.000.pe/login.html');
  });
 
 $('.tlog2, .rbtn').click(function() {
